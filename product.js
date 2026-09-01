@@ -23,7 +23,7 @@ let product = {
 
 product.displayDetails();
 
-console.log("After updating quantity:");
+console.log("After updating quantity:"); //after updating quantity
 
 product.updateQuantity(3);
 product.displayDetails();
